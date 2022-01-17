@@ -10,7 +10,20 @@
   ],
   "hobbie": [
     {
-      "dreams": []
+      "name": "Caminhada",
+      "description": "Andar todas as manhãs",
+      "id": 1,
+      "userId": 1
+    },
+    {
+      "dreams": [
+        {
+          "name": "Correr",
+          "description": "Começar a correr ao invés de andar de manhã",
+          "id": 1,
+          "userId": 1
+        }
+      ]
     }
   ]
 }
